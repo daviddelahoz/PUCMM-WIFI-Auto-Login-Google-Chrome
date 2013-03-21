@@ -4,6 +4,8 @@ PUCMM-WIFI-Auto-Login-Google-Chrome
 Esto es una extensión que permite iniciar sesión en la red WIFI de PUCMM Santiago de una manera más fácil y rápida.
 
 Historial de cambios
+v0.5: Se agregaron dos nuevas funcionalidades. Ahora la extensión permite que puedas abrir multiples tabs en el WebSise y también al detectar el login del wifi, el add-on ejecuta el logueo automáticamente.
+
 v0.4: Se realizaron algunas mejoras con respecto a la interacción con el usuario y también mejoras en el manifiesto de la aplicación.
 
 v0.3: Se Agregó la capacidad de notificar al usuario si los datos de iniciar sesión están correctos al momento de hacer click para loguearse.

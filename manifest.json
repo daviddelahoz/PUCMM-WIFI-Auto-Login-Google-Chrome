@@ -1,6 +1,6 @@
 {
   "name": "PUCMM WIFI Auto Login",
-  "version": "0.4",
+  "version": "0.5",
   "manifest_version": 2,  
   "description": "Esto es una extensión que permite iniciar sesión en la red WIFI de PUCMM Santiago de una manera más fácil y rápida.",
   "icons": {
@@ -18,6 +18,6 @@
   "minimum_chrome_version": "18",
 
   "options_page": "options.html",
-  "permissions": [ "tabs", "https://stwlan.priv/*"]
+  "permissions": [ "tabs", "https://*.pucmmsti.edu.do/*", "https://stwlan.priv/*", "webNavigation"]
 
   }
