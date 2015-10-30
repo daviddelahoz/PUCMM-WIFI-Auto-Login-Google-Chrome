@@ -1,0 +1,1 @@
+document.getElementById("ctl00_MsgError").style.display="none";document.getElementById("menus").style.display="block";document.getElementById("ctl00_Contenido").style.display="block";
